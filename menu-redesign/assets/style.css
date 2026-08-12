@@ -1,0 +1,273 @@
+/* ============================================================
+   Cova Catering — Menu booklet template
+   Palette + type extracted from the original Pages document:
+   - Green text:        #6F856A  (contents heading #617D64)
+   - Gold motif:        #D6A065
+   - Frame grey:        #D0CECE
+   - Cover green:       #265135
+   - Label grey:        #404040
+   Fonts: Bodoni 72 Oldstyle -> Bodoni Moda (web fallback)
+          Cochin            -> EB Garamond (web fallback)
+   ============================================================ */
+
+:root {
+  --green: #6F856A;
+  --green-dark: #617D64;
+  --gold: #D6A065;
+  --frame: #D0CECE;
+  --cover: #265135;
+  --label: #404040;
+  --display: "Bodoni 72 Oldstyle", "Bodoni Moda", "Bodoni MT", serif;
+  --body: "Cochin", "EB Garamond", Georgia, serif;
+  --sans: "Calibri", "Helvetica Neue", Arial, sans-serif;
+}
+
+* { margin: 0; padding: 0; box-sizing: border-box; }
+
+@page { size: A4; margin: 0; }
+@media print {
+  .page { page-break-after: always; }
+}
+
+html, body { background: #fff; }
+
+.page {
+  width: 595.28pt;
+  height: 841.89pt;
+  position: relative;
+  overflow: hidden;
+  background: #fff;
+  page-break-after: always;
+  break-after: page;
+}
+
+/* thin grey frame, inset 24.5pt (later fern pages use .frame-deep) */
+.frame {
+  position: absolute;
+  inset: 24.5pt;
+  border: 0.5pt solid var(--frame);
+  pointer-events: none;
+}
+.frame-deep { inset: 56pt 52pt; }
+
+/* ---------- motifs ---------- */
+.sprig { display: block; margin: 0 auto; width: 36pt; }
+.fern  { display: block; margin: 0 auto; width: 42pt; }
+
+.swoosh {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 0;
+}
+
+/* ---------- shared type ---------- */
+.menu-title {
+  font-family: var(--display);
+  font-style: italic;
+  font-weight: 400;
+  font-size: 15.5pt;
+  color: var(--green);
+  text-align: center;
+  letter-spacing: 0.01em;
+}
+
+.divider-title {
+  font-family: var(--display);
+  font-style: italic;
+  font-weight: 400;
+  font-size: 25pt;
+  color: var(--green);
+  text-align: center;
+}
+
+.label {
+  font-family: var(--body);
+  font-size: 6.2pt;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--label);
+  text-align: center;
+}
+
+.dish { text-align: center; }
+.dish h3 {
+  font-family: var(--display);
+  font-weight: 400;
+  font-size: 12.5pt;
+  color: var(--green);
+  letter-spacing: 0.015em;
+}
+.dish h3 .pp {
+  font-size: 7.5pt;
+  letter-spacing: 0.02em;
+}
+.dish p {
+  font-family: var(--body);
+  font-style: italic;
+  font-size: 10pt;
+  color: var(--green);
+  line-height: 1.25;
+  margin-top: 1pt;
+}
+
+.body-copy {
+  font-family: var(--body);
+  font-size: 10.5pt;
+  color: var(--green);
+  text-align: center;
+  line-height: 1.45;
+}
+.body-copy i, .body-copy em { font-style: italic; }
+.body-copy b, .body-copy strong { font-weight: 600; }
+
+.note {
+  font-family: var(--display);
+  font-style: italic;
+  font-weight: 500;
+  font-size: 10.5pt;
+  color: var(--green);
+  text-align: center;
+}
+
+/* ---------- page kinds ---------- */
+
+/* standard menu page: sprig top, title, flowing dish list */
+.menu .content {
+  position: absolute;
+  inset: 24.5pt;
+  padding-top: 46pt;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.menu .content > .menu-title { margin-top: 24pt; }
+.menu .content > .label { margin-top: 16pt; margin-bottom: 4pt; }
+.menu .content > .dish { margin-top: 9pt; }
+.menu .content > .note { margin-top: 22pt; }
+.menu.roomy .content { padding-top: 76pt; }
+.menu.roomy .content > .dish { margin-top: 13pt; }
+.menu.roomy .content > .label { margin-top: 22pt; }
+
+/* divider page with intro text (title ~1/3 down) */
+.divider .content {
+  position: absolute;
+  inset: 24.5pt;
+  padding: 0 60pt;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.divider .content .sprig,
+.divider .content .fern { margin-top: 225pt; }
+.divider .content .divider-title { margin-top: 10pt; }
+.divider .content .label { margin-top: 42pt; }
+.divider .content .body-copy { margin-top: 12pt; }
+
+/* plain divider: title dead centre */
+.divider-plain .content {
+  position: absolute;
+  inset: 24.5pt;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.divider-plain .divider-title { margin-top: 8pt; }
+
+/* dark green cover / back page */
+.cover { background: var(--cover); }
+.cover .frame { border-color: rgba(255, 255, 255, 0.85); inset: 30pt 28pt; }
+.cover .content {
+  position: absolute;
+  inset: 30pt 28pt;
+  padding: 0 62pt;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: #fff;
+}
+.cover h2 {
+  font-family: var(--body);
+  font-weight: 400;
+  font-size: 10.5pt;
+  margin-top: 26pt;
+}
+.cover .body-copy { color: #fff; margin-top: 14pt; }
+.cover .thanks {
+  font-family: var(--display);
+  font-style: italic;
+  font-size: 15pt;
+  text-align: center;
+}
+.cover .address {
+  font-family: var(--display);
+  font-style: italic;
+  font-size: 12.5pt;
+  text-align: center;
+  line-height: 1.6;
+}
+.cover-footer {
+  position: absolute;
+  left: 0; right: 0;
+  bottom: 38pt;
+  display: flex;
+  justify-content: center;
+  gap: 26pt;
+  font-family: var(--sans);
+  font-size: 7.5pt;
+  letter-spacing: 0.22em;
+  color: #fff;
+}
+.cover-footer .sep { opacity: 0.9; }
+
+/* contents page */
+.contents .content {
+  position: relative;
+  z-index: 1;
+  padding: 60pt 60pt 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.contents-title {
+  font-family: var(--display);
+  font-weight: 500;
+  font-size: 21pt;
+  color: var(--green-dark);
+  text-align: center;
+  margin-top: 8pt;
+}
+.contents ol {
+  list-style: none;
+  margin-top: 58pt;
+  text-align: center;
+}
+.contents ol li {
+  font-family: var(--display);
+  font-weight: 400;
+  font-size: 15pt;
+  color: var(--green-dark);
+  margin-bottom: 22pt;
+}
+.contents-footer {
+  position: absolute;
+  z-index: 1;
+  left: 56pt; right: 56pt;
+  bottom: 44pt;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-family: var(--sans);
+  font-size: 13pt;
+  letter-spacing: 0.06em;
+  color: #6b6b68;
+}
+.contents-footer .item { display: flex; align-items: center; gap: 8pt; }
+.contents-footer svg { width: 26pt; height: 26pt; }
+
+/* helpers */
+.sp-8  { height: 8pt; }
+.sp-14 { height: 14pt; }
+.sp-22 { height: 22pt; }
