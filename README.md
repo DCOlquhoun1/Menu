@@ -21,6 +21,8 @@ navy header and utility bar.
 | `about.html` | Company story, why shop local, social links |
 | `faqs.html` | Grouped accordion FAQs |
 | `contact.html` | Both stores, opening hours, enquiry form, travel info |
+| `shop.html` | Per-school shop — pick a school (or arrive via the finder) and add badged items to the basket |
+| `basket.html` | Basket review and reserve-and-collect checkout (order emailed to the shop; paid in store) |
 
 Supporting files: `assets/css/styles.css`, `assets/js/main.js`, `robots.txt`, `sitemap.xml`.
 
@@ -53,6 +55,11 @@ If the site is published somewhere other than `https://www.acschoolwear.org/`, u
 - the contact form builds a pre-filled `mailto:` message (nothing is stored or posted anywhere)
 - footer copyright year
 
+`assets/js/catalog.js` is the **product catalogue** — the one file to edit for schools, products,
+sizes and prices (prices are stored in pence). `assets/js/shop.js` renders the shop and basket;
+the basket is kept in the customer's browser (localStorage) and checkout emails the order to the
+shop as a reserve-and-collect request. No payment is taken online.
+
 ## Before this goes live — things to confirm with Audrey
 
 The content was written from publicly listed business information. These points need checking
@@ -74,3 +81,9 @@ against what the shop actually does today:
    embroidery machine and finished uniform would lift it considerably.
 8. **Contact form** — currently opens the customer's own email app. If Audrey would rather receive
    submissions directly, wire it to a form service (Formspree, Netlify Forms) instead.
+9. **Every price in `assets/js/catalog.js` is a placeholder** and must be replaced with the shop's
+   real prices before launch. The product list per school is a sensible generic set (secondary vs
+   primary) — adjust items per school as needed in the same file.
+10. **The shop is reserve-and-collect, not online payment.** Orders arrive by email and are paid in
+   store. If Audrey wants real card payments later, that needs a payment provider (e.g. Stripe or
+   PayPal buttons) or moving the shop pages onto a commerce platform.

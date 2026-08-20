@@ -3,11 +3,11 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Find Your School | Audrey&rsquo;s Creations Schoolwear, Barrhead</title>
-<meta name="description" content="Search the schools we supply badged uniform for across East Renfrewshire, Glasgow, Renfrewshire and Edinburgh. Can't see your school? We badge to order.">
+<title>Shop School Uniform | Audrey&rsquo;s Creations, Barrhead</title>
+<meta name="description" content="Choose your school and order badged uniform online to reserve and collect from Audrey's Creations in Barrhead. Pay in store when you collect.">
 <meta name="theme-color" content="#10243f">
-<meta property="og:title" content="Find Your School | Audrey&rsquo;s Creations Schoolwear, Barrhead">
-<meta property="og:description" content="Search the schools we supply badged uniform for across East Renfrewshire, Glasgow, Renfrewshire and Edinburgh. Can't see your school? We badge to order.">
+<meta property="og:title" content="Shop School Uniform | Audrey&rsquo;s Creations, Barrhead">
+<meta property="og:description" content="Choose your school and order badged uniform online to reserve and collect from Audrey's Creations in Barrhead. Pay in store when you collect.">
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="Audrey's Creations &amp; Alterations">
 <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><rect width='32' height='32' rx='6' fill='%2310243f'/><text x='16' y='22' font-family='Arial' font-size='15' font-weight='bold' fill='%23009e9a' text-anchor='middle'>AC</text></svg>">
@@ -83,128 +83,36 @@
 
 <section class="page-head">
   <div class="wrap">
-    <p class="crumbs"><a href="index.html">Home</a> &rsaquo; Find your school</p>
-    <h1>Find your school</h1>
-    <p>Search below to see the schools we currently supply badged uniform for. If yours isn&rsquo;t listed, we can almost always badge to order &mdash; just ask.</p>
+    <p class="crumbs"><a href="index.html">Home</a> &rsaquo; <a href="schools.html">Find your school</a> &rsaquo; Shop</p>
+    <h1 id="shop-school-name">Choose your school</h1>
+    <p id="shop-school-intro">Pick your school to see its uniform range.</p>
   </div>
 </section>
 
 <section class="section">
   <div class="wrap">
-
-    <form class="school-toolbar" role="search" onsubmit="return false">
-      <div class="fieldset" style="flex:2 1 320px">
-        <label for="school-search">Search by school name</label>
-        <input class="field" id="school-search" type="search" placeholder="e.g. Barrhead, Mearns, Gaelic&hellip;" autocomplete="off">
-      </div>
-      <div class="fieldset">
-        <label for="school-region">Area</label>
-        <select class="field" id="school-region">
-          <option value="all">All areas</option>
-          <option value="east-renfrewshire">East Renfrewshire</option>
-          <option value="glasgow">Glasgow</option>
-          <option value="renfrewshire">Renfrewshire</option>
-          <option value="other">Edinburgh &amp; elsewhere</option>
-        </select>
-      </div>
-      <div class="fieldset">
-        <label for="school-stage">Stage</label>
-        <select class="field" id="school-stage">
-          <option value="all">Primary &amp; secondary</option>
-          <option value="secondary">Secondary</option>
-          <option value="primary">Primary</option>
-          <option value="nursery">Nursery</option>
-        </select>
-      </div>
-    </form>
-
-    <div class="school-group" data-region="east-renfrewshire" data-stage="secondary">
-      <h3>East Renfrewshire &mdash; Secondary <span data-count></span></h3>
-      <ul class="school-list">
-        <li><a href="shop.html?school=barrhead-high">Barrhead High School</a></li>
-        <li><a href="shop.html?school=st-lukes-high">St Luke&rsquo;s High School</a></li>
-        <li><a href="shop.html?school=eastwood-high">Eastwood High School</a></li>
-        <li><a href="shop.html?school=williamwood-high">Williamwood High School</a></li>
-        <li><a href="shop.html?school=woodfarm-high">Woodfarm High School</a></li>
-        <li><a href="shop.html?school=mearns-castle-high">Mearns Castle High School</a></li>
-      </ul>
+    <div class="notice-bar">
+      <strong>Reserve &amp; collect.</strong> Nothing is paid online &mdash; send your order, we&rsquo;ll get it ready and confirm, and you pay in store when you collect (with a fitting if you&rsquo;d like one). Prices shown are indicative until confirmed at the till.
     </div>
-
-    <div class="school-group" data-region="east-renfrewshire" data-stage="primary">
-      <h3>East Renfrewshire &mdash; Primary <span data-count></span></h3>
-      <ul class="school-list">
-        <li><a href="shop.html?school=busby-primary">Busby Primary School</a></li>
-        <li><a href="shop.html?school=crookfur-primary">Crookfur Primary School</a></li>
-        <li><a href="shop.html?school=kirkhill-primary">Kirkhill Primary School</a></li>
-        <li><a href="shop.html?school=st-cadocs-primary">St Cadoc&rsquo;s Primary School</a></li>
-      </ul>
-    </div>
-
-    <div class="school-group" data-region="glasgow" data-stage="secondary">
-      <h3>Glasgow &mdash; Secondary <span data-count></span></h3>
-      <ul class="school-list">
-        <li><a href="shop.html?school=glasgow-gaelic">Glasgow Gaelic School</a></li>
-      </ul>
-    </div>
-
-    <div class="school-group" data-region="glasgow" data-stage="primary">
-      <h3>Glasgow &mdash; Primary <span data-count></span></h3>
-      <ul class="school-list">
-        <li><a href="shop.html?school=st-marks-primary">St Mark&rsquo;s Primary School</a></li>
-        <li><a href="shop.html?school=glasgow-gaelic-primary">Glasgow Gaelic School (Primary)</a></li>
-      </ul>
-    </div>
-
-    <div id="school-empty" class="no-results" hidden>
-      <h3>No schools matched that search</h3>
-      <p>Try a shorter search term, or clear the area and stage filters. If your school genuinely isn&rsquo;t on our list, we can still help &mdash; we badge to order.</p>
-      <a class="btn btn-primary" href="contact.html">Ask about your school</a>
-    </div>
-
-  </div>
-</section>
-
-<section class="section section-alt">
-  <div class="wrap">
-    <div class="grid grid-2" style="gap:44px;align-items:start">
-      <div>
-        <span class="eyebrow">Not listed?</span>
-        <h2>We badge to order for any school</h2>
-        <p>The list above covers the schools we hold stock badges for. That isn&rsquo;t the limit of what we can do &mdash; if you bring us your school&rsquo;s crest, or the school sends us their artwork, we&rsquo;ll digitise it once and embroider it onto whatever the uniform list calls for.</p>
-        <ul class="list-check">
-          <li>Nursery and primary polos, cardigans and sweatshirts</li>
-          <li>Secondary blazers, ties, knitwear and PE kit</li>
-          <li>Parent council and PTA orders, including bulk pricing</li>
-          <li>Leavers hoodies with the full class list on the back</li>
-        </ul>
-        <a class="btn btn-primary" href="contact.html">Enquire about your school</a>
-      </div>
-      <div class="card">
-        <h3>For schools and parent councils</h3>
-        <p>We work directly with schools across the west of Scotland to supply and badge uniform. That can mean anything from stocking your crest so parents can walk in and buy, to running a one-off order for a P7 leavers group.</p>
-        <p>Talk to us about:</p>
-        <ul class="list-check">
-          <li>Becoming your named local uniform supplier</li>
-          <li>Sale days and fitting sessions at the school</li>
-          <li>Staff polos, fleeces and lanyards</li>
-          <li>Sports teams, clubs and after-school groups</li>
-        </ul>
-        <p class="card-link"><a href="mailto:audreyscreations2013@gmail.com">Email us about a school account &rarr;</a></p>
-      </div>
-    </div>
+    <div id="school-picker" class="grid grid-3" hidden></div>
+    <div id="product-grid" class="grid grid-3"></div>
+    <p style="margin-top:28px">Need something that isn&rsquo;t listed &mdash; a different garment, adult sizes, or a school we don&rsquo;t hold badges for yet? <a href="contact.html">Send us an enquiry</a> or call <a href="tel:+441418807704">0141 880 7704</a>.</p>
   </div>
 </section>
 
 <section class="cta-band">
   <div class="wrap">
-    <h2>Know the school, not the sizes?</h2>
-    <p>Come in and we&rsquo;ll fit everything properly. It takes ten minutes and saves a summer of returns.</p>
+    <h2>Rather do it in person?</h2>
+    <p>Come into the Barrhead shop and we&rsquo;ll size everything properly &mdash; the basket is just a head start.</p>
     <div class="cta-actions">
-      <a class="btn btn-primary" href="contact.html">Opening hours &amp; directions</a>
-      <a class="btn btn-ghost" href="tel:+441418807704">Call 0141 880 7704</a>
+      <a class="btn btn-primary" href="basket.html">View basket</a>
+      <a class="btn btn-ghost" href="contact.html">Opening hours</a>
     </div>
   </div>
 </section>
+
+<script src="assets/js/catalog.js"></script>
+<script src="assets/js/shop.js"></script>
 </main>
 
 <footer class="site-footer">
@@ -270,8 +178,6 @@
   </div>
 </footer>
 
-<script src="assets/js/catalog.js"></script>
-<script src="assets/js/shop.js"></script>
 <script src="assets/js/main.js"></script>
 </body>
 </html>
