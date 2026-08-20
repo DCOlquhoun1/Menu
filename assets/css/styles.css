@@ -591,3 +591,6 @@ tbody tr:nth-child(even) { background: var(--wash); }
 /* button rows keep their gap when they wrap onto separate lines */
 .btn-row { display: flex; flex-wrap: wrap; gap: 12px; }
 .btn-row .btn { margin-left: 0 !important; }
+
+/* in-page anchor targets clear the sticky header instead of hiding under it */
+[id] { scroll-margin-top: 140px; }
