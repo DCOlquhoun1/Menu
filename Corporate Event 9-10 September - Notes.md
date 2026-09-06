@@ -266,6 +266,28 @@ so it sits on the hash instead of running off.
 **Order changes:** miso 1 kg → 500 g (100 g used), rice vinegar line now spans both days, Dijon jar
 covers both aiolis (70 g total).
 
+### Hot honey — for the bombas
+
+| Ingredient | Qty |
+| --- | --- |
+| Runny honey | 1 kg |
+| Dried chilli flakes | 30–40 g |
+| Apple cider vinegar | 50 ml |
+| Fine sea salt | 5 g |
+| Smoked chilli / chipotle flakes (optional) | 5–10 g |
+
+**Method.** Warm the honey to ~55°C — enough to loosen, not to simmer; boiled honey darkens and loses
+aroma. Stir in chilli, vinegar and salt off the heat and infuse at least 30 min; the heat keeps
+building, so taste before calling it done. Hold warm at service or it drags rather than drizzles.
+
+**Yield** ≈ 1 L — 3.3 g on each of 300 bombas. One batch covers the event.
+
+**Supersedes** the lemon-and-honey mix in the bomba recipe (2.25 L lemon juice, 1.6 kg honey): no
+lemon here, the cider vinegar does that job.
+
+**Order changes:** honey 3 kg → 2 kg, lemons 80 → 30, new lines for apple cider vinegar and optional
+chipotle flakes.
+
 ### Notes
 
 - 5 items × 1 per guest = the 5 canapés per person.
