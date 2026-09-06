@@ -165,6 +165,27 @@ weight to be confirmed.
 says thyme crumb) — both are on separate order lines. At 6 tbsp lemon to 3 tbsp honey the drizzle is
 twice as sharp as it is sweet; taste before committing 2.25 L of juice.
 
+### Thyme crumb — ×5
+
+| Ingredient | Per batch | ×5 |
+| --- | --- | --- |
+| Fresh breadcrumbs or panko | 100 g | 500 g |
+| Thyme leaves, finely chopped | 1 tbsp | 5 tbsp (~15 g) |
+| Garlic, finely grated | 1 small clove | 5 small cloves |
+| Parmesan, finely grated (optional) | 25 g | 125 g |
+| Olive oil *or* melted butter | 2 tbsp / 30 g | 150 ml / 150 g |
+| Salt | ½ tsp | 2½ tsp |
+| Black pepper | to taste | to taste |
+| Lemon zest (optional) | ½ lemon | zest of 2½ |
+
+**Method.** Toss the crumbs through the oil or butter with the garlic and bake at 170°C for 8–10 min,
+stirring twice, until evenly gold. Add the thyme for the last 2 minutes only — from the start it
+scorches and turns bitter. Cool completely, then fold through the parmesan and zest off the heat.
+Airtight once cold; keep it off the pass until service or it softens.
+
+**Coverage.** 500 g across 300 bombas is 1.7 g each — a fine dusting. A crumb you can see and hear is
+3–5 g each, i.e. ×10 to ×15. Multiplier to be confirmed.
+
 ### Notes
 
 - 5 items × 1 per guest = the 5 canapés per person.
