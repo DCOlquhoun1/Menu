@@ -141,6 +141,30 @@ salty. Spread 3 cm deep into lined trays, cling to the surface, chill overnight.
 flour; as written it will not set firm enough to roll. Either reduce the stock hard, or take it to
 ~6 L and bring the butter up to match the flour. Test one 12-portion batch before the full order.
 
+### Goats cheese bombas — recipe ×25 (12 → 300)
+
+| Ingredient | Per 12 | ×25 for 300 (metric) |
+| --- | --- | --- |
+| Goats cheese, room temp | 24 oz | 17 kg |
+| Plain flour | ¾ cup | 2.4 kg |
+| Large eggs | 3 | 75 |
+| Panko breadcrumbs | 2 cups | 2.5 kg |
+| Fresh lemon juice | 6 tbsp | 2.25 L (~50 lemons) |
+| Honey | 3 tbsp | 1.6 kg |
+| Vegetable oil | for frying | for frying |
+
+**Method.** Roll the tempered cheese into balls, then flour, egg, panko — double crumb or they split.
+Freeze the crumbed balls solid before frying; from chilled they burst. Fry from frozen at 180°C for
+60–90 seconds. Warm the honey with lemon juice, chilli flakes and thyme for the drizzle.
+
+**Portion check.** 24 oz across 12 is 57 g of cheese per bomba — golf-ball sized, and 17 kg makes it
+the single biggest line on the order sheet. At a canapé-sized 25 g it would be 6.5–7 kg. Portion
+weight to be confirmed.
+
+**Two gaps against the menu.** The recipe has no chilli (menu says *hot* honey) and no thyme (menu
+says thyme crumb) — both are on separate order lines. At 6 tbsp lemon to 3 tbsp honey the drizzle is
+twice as sharp as it is sweet; taste before committing 2.25 L of juice.
+
 ### Notes
 
 - 5 items × 1 per guest = the 5 canapés per person.
