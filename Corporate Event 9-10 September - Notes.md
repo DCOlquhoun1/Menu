@@ -94,9 +94,15 @@ and a little water for 5–6 hours, until it probes 92–94°C with no resistanc
 liquor before pulling — pulled hot it shreds dry. Reduce the remaining sauce with the skimmed cooking
 liquor and fold through a ladle at a time until glossy, not swimming.
 
-**Scaling — action required.** One 6 kg batch yields ≈3.3 kg pulled (~55%), i.e. 80–130 sliders
-depending on a 40 g or 25 g portion. **300 sliders needs roughly 4 × 6 kg = 24 kg** at 40 g, or
-~15 kg at 25 g. Portion weight to be confirmed before the butcher order goes in.
+**Scaling — settled at canapé portions.** 6 kg raw pulls to ≈3.4 kg (~55%), which at a 13–14 g
+canapé fill covers ~250 sliders. The 9th needs 300, so the order is **8 kg** — same portion size,
+scaled to the actual count, with a little in hand for shrinkage. Holding at exactly 6 kg would drop
+the fill to ~11 g a slider.
+
+Sauce scales ×1.33 for an 8 kg cook: tomato sauce 1.07 kg, soy 270 ml, brown sugar 400 g,
+sriracha 200 g.
+
+*(An earlier 24 kg figure came from assuming a 40 g dining-slider portion — too big for a canapé.)*
 
 ### Asian slaw — 300 sliders
 
