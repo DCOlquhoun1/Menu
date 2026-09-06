@@ -151,10 +151,10 @@ flour; as written it will not set firm enough to roll. Either reduce the stock h
 
 | Ingredient | Per 12 | ×25 for 300 (metric) |
 | --- | --- | --- |
-| Goats cheese, room temp | 24 oz | 17 kg |
-| Plain flour | ¾ cup | 2.4 kg |
-| Large eggs | 3 | 75 |
-| Panko breadcrumbs | 2 cups | 2.5 kg |
+| Goats cheese, room temp | 24 oz | 7.5 kg *(at 25 g each — see portion note)* |
+| Plain flour | ¾ cup | 1.5 kg |
+| Large eggs | 3 | 50 |
+| Panko breadcrumbs | 2 cups | 1.6 kg |
 | Fresh lemon juice | 6 tbsp | 2.25 L (~50 lemons) |
 | Honey | 3 tbsp | 1.6 kg |
 | Vegetable oil | for frying | for frying |
@@ -163,9 +163,12 @@ flour; as written it will not set firm enough to roll. Either reduce the stock h
 Freeze the crumbed balls solid before frying; from chilled they burst. Fry from frozen at 180°C for
 60–90 seconds. Warm the honey with lemon juice, chilli flakes and thyme for the drizzle.
 
-**Portion check.** 24 oz across 12 is 57 g of cheese per bomba — golf-ball sized, and 17 kg makes it
-the single biggest line on the order sheet. At a canapé-sized 25 g it would be 6.5–7 kg. Portion
-weight to be confirmed.
+**Portion — settled at 25 g.** 7.5 kg across 300, down from the 17 kg a straight ×25 would have given
+(57 g each, golf-ball sized). The panure came down with it — a 25 g ball has ~60% the surface of a
+57 g one — but keep working depth in the crumbing trays or you get bald patches and splits.
+
+**Order changes:** goats cheese 17 kg → 7.5 kg, plain flour 5.5 kg → 4 kg, panko 6.5 kg → 5.5 kg,
+eggs 12 dozen → 10 dozen.
 
 **Two gaps against the menu.** The recipe has no chilli (menu says *hot* honey) and no thyme (menu
 says thyme crumb) — both are on separate order lines. At 6 tbsp lemon to 3 tbsp honey the drizzle is
