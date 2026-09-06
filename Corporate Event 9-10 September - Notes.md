@@ -8,7 +8,7 @@ Note-taking session. Live working document.
 
 ## Event overview
 
-| | 9th September | 10th September |
+| | Wed 9 September | Thu 10 September |
 | --- | --- | --- |
 | **Client** | Denmark University | _TBC_ |
 | **Guests** | 300 | 100 |
@@ -33,6 +33,43 @@ Note-taking session. Live working document.
 3. **Chicken Caesar Croquettes** — anchovy aioli, romaine & parmesan
 4. **Goats Cheese Bombas** — hot honey & thyme crumb
 5. **Potato Hash** — miso aioli, caviar & chives
+
+### Suppliers confirmed — bruschetta
+
+| Component | Supplier | Notes |
+| --- | --- | --- |
+| Baguettes (crostini) | Brakes | Fry Tue 8 Sep for Wed 9 Sep |
+| Tomatoes | Premier Produce | Dress on the day only |
+| Feta | Dunns | Whipped — recipe below |
+| Basil | Premier Produce | Incl. leaves to crisp |
+| Balsamic glaze | Dunns or Brakes | Drizzle at the pass |
+
+### Whipped feta — 300 crostini (yield ≈ 5.2 kg, 15 g each)
+
+| Ingredient | Qty | Supplier |
+| --- | --- | --- |
+| Feta, block in brine, drained | 3 kg | Dunns |
+| Full-fat cream cheese | 1.2 kg | |
+| Greek yoghurt | 600 g | |
+| Extra virgin olive oil | 300 ml | |
+| Lemon juice (+ zest of 4) | 120 ml | |
+| Garlic, microplaned (optional) | 2 cloves | |
+| Cracked black pepper | to taste | |
+
+**Method.** Break up the drained feta and blitz with the cream cheese 2–3 min until it stops being
+grainy, scraping down twice. Add yoghurt, lemon juice, zest and garlic; blitz again. Stream in the
+oil with the motor running until glossy. Season with pepper only — the feta brings the salt. Pass
+through a drum sieve for a silkier finish. Bag into piping bags with a 10 mm plain nozzle.
+
+Make Mon 7 or Tue 8 Sep; keeps 3 days at 3°C. It firms hard in the fridge — pull the bags 30 min
+before service or it will tear the crostini.
+
+**Crostini.** Slice baguettes on a long bias at ~1 cm, allow 330 slices for 300 canapés (≈14
+baguettes). Fry Tuesday, drain hard, cool completely before boxing airtight — any residual warmth
+and they go leathery. Crisp the basil the same day and store airtight once cold.
+
+**Assembly.** Pipe feta, spoon on tomato, balsamic glaze, crispy basil leaf. Build in batches — they
+hold about 20 minutes before the base softens.
 
 ### Notes
 
