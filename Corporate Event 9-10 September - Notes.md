@@ -188,6 +188,33 @@ deep bed, or the middle steams instead of toasting.
 
 **Knock-on order changes:** panko 5 kg → 6.5 kg, parmesan 1.2 kg → 1.6 kg.
 
+### Potato hash — 300 portions
+
+| Ingredient | Qty |
+| --- | --- |
+| Agria potatoes, grated | 15 kg |
+| Butter | 3 kg (12 × 250 g) |
+| Salt | 340 g |
+| Onion powder | 60 g |
+| Garlic powder | 40 g |
+| Nutmeg | 10 g |
+| Cornflour | 750 g |
+
+**Method.** Grate and wring the potato out hard in cloths — residual water is the difference between
+a hash that crisps and one that steams. Fold through melted butter, cornflour and seasonings while
+the potato is dry. Press firmly into lined deep trays, bake 180°C 45–60 min until set and gold, cool
+and press under weight overnight. Cut cold into 300 pieces, crisp to order. Top at the pass with miso
+aioli, caviar and chives.
+
+**Yield** ≈ 19 kg of mix, 50 g raw potato per canapé. Plan tray dimensions around 300 clean pieces
+plus edge trim.
+
+**Seasoning check.** 340 g salt is ~2.3% of the potato weight against a usual 1–1.5%, and both the
+miso aioli and the caviar going on top are salty. Suggest 225–250 g and correct at the pass.
+
+**Order changes:** potatoes now 17 kg Agria (to yield 15 kg grated), butter 1 kg → 4 kg, cornflour
+line 3 kg → 3.75 kg; new lines for fine salt, onion powder, garlic powder and nutmeg.
+
 ### Notes
 
 - 5 items × 1 per guest = the 5 canapés per person.
