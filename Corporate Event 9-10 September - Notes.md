@@ -30,7 +30,7 @@ Note-taking session. Live working document.
 
 1. **Bruschetta** — tomato, whipped feta & crispy basil
 2. **Pulled Pork Sliders** — with Asian slaw
-3. **Chicken Caesar Croquettes** — anchovy aioli, romaine & parmesan
+3. **Chicken Caesar Croquettes** — anchovy aioli & parmesan *(romaine dropped — client menu wording to update)*
 4. **Goats Cheese Bombas** — hot honey & thyme crumb
 5. **Potato Hash** — miso aioli, caviar & chives
 
@@ -297,9 +297,9 @@ balsamic glaze, crispy basil leaf. Holds ~20 min before the base softens, so bui
 **Caesar croquettes.** A dot of anchovy aioli on top and parmesan shaved over — ~1.5 g each, 450 g
 across 300. Shave to order; shaved early it goes waxy and clumps.
 
-**Open — romaine.** The menu reads "anchovy aioli, romaine & parmesan" but the agreed finish is aioli
-and parmesan only. Either the 15 heads come off the order or the romaine goes under the croquette as
-a shred. Decision outstanding.
+**Romaine — dropped.** The agreed finish is aioli and parmesan only, so the 15 heads have come off
+the order. The menu wording still reads "anchovy aioli, romaine & parmesan" and needs updating before
+anything goes to the client.
 
 **Order change:** parmesan 1.6 kg → 2 kg to cover the shavings.
 
