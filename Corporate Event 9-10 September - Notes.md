@@ -2,6 +2,8 @@
 
 Note-taking session. Live working document.
 
+**Ordering / prep sheet (live, tick-off-able):** https://claude.ai/code/artifact/9a1c0d3e-d5b6-4e6f-a2df-8b60d2b716c4
+
 ---
 
 ## Event overview
