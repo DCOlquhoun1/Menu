@@ -114,6 +114,33 @@ Warm the honey into the vinegar to loosen, whisk in the aromatics, sesame oil la
 keeps a week; the slaw does not — dress 30 minutes before service at the earliest or it weeps and
 the bun goes through.
 
+### Chicken Caesar croquettes — recipe ×25 (12 → 300)
+
+| Ingredient | Per 12 | ×25 for 300 |
+| --- | --- | --- |
+| Chicken thigh | 100 g | 2.5 kg |
+| Chicken stock | 500 ml | 12.5 L |
+| Unsalted butter | 10 g | 250 g |
+| Plain flour | 50 g | 1.25 kg |
+| Parmesan | 25 g | 625 g |
+| Anchovies, chopped | 15 g | 375 g |
+| Garlic, crushed | 1 clove | 25 cloves (~125 g) |
+| Parsley, chopped | 10 g | 250 g |
+| Salt | to taste | to taste |
+| Vegetable oil | for frying | for frying |
+
+**Panure ×25:** 800 g plain flour · 20 eggs · 2 kg breadcrumbs.
+
+**Method.** Poach the thigh in the stock, lift and shred, keep the stock hot. Roux the butter and
+flour and cook it out, then beat in the hot stock a ladle at a time to a thick panada. Fold through
+chicken, parmesan, anchovy, garlic and parsley; season lightly — the anchovy and parmesan are already
+salty. Spread 3 cm deep into lined trays, cling to the surface, chill overnight. Cut and roll at
+~30 g, then flour, egg, crumb. Fry at 170°C for 3 min to order.
+
+**Open question — panada ratio.** 12.5 L stock to 1.25 kg flour and 250 g butter is ~10:1 liquid to
+flour; as written it will not set firm enough to roll. Either reduce the stock hard, or take it to
+~6 L and bring the butter up to match the flour. Test one 12-portion batch before the full order.
+
 ### Notes
 
 - 5 items × 1 per guest = the 5 canapés per person.
