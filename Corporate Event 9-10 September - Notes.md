@@ -71,6 +71,49 @@ and they go leathery. Crisp the basil the same day and store airtight once cold.
 **Assembly.** Pipe feta, spoon on tomato, balsamic glaze, crispy basil leaf. Build in batches — they
 hold about 20 minutes before the base softens.
 
+### Suppliers confirmed — pulled pork sliders
+
+| Component | Supplier | Notes |
+| --- | --- | --- |
+| Brioche slider buns | Brakes | 320 for 300 sliders |
+| Prepped coleslaw (undressed) | Premier Produce | Must be raw shred, not mayo coleslaw |
+| Pork collar | TBC (butcher) | See scaling note below |
+
+### Pulled pork — per 6 kg batch
+
+| Ingredient | Qty |
+| --- | --- |
+| Pork collar | 6 kg |
+| Tomato sauce | 800 g |
+| Soy sauce | 200 ml |
+| Brown sugar | 300 g |
+| Sriracha | 150 g |
+
+**Method.** Season and colour the collar hard, then braise covered at 150°C with a third of the sauce
+and a little water for 5–6 hours, until it probes 92–94°C with no resistance. Rest 45 min in its own
+liquor before pulling — pulled hot it shreds dry. Reduce the remaining sauce with the skimmed cooking
+liquor and fold through a ladle at a time until glossy, not swimming.
+
+**Scaling — action required.** One 6 kg batch yields ≈3.3 kg pulled (~55%), i.e. 80–130 sliders
+depending on a 40 g or 25 g portion. **300 sliders needs roughly 4 × 6 kg = 24 kg** at 40 g, or
+~15 kg at 25 g. Portion weight to be confirmed before the butcher order goes in.
+
+### Asian slaw — 300 sliders
+
+| Ingredient | Qty |
+| --- | --- |
+| Prepped coleslaw, undressed | 4 kg |
+| White wine vinegar | 300 ml |
+| Sesame oil | 150 ml |
+| Honey | 200 g |
+| Ginger, grated | 60 g |
+| Garlic, microplaned | 30 g |
+| Chilli flakes | 10 g |
+
+Warm the honey into the vinegar to loosen, whisk in the aromatics, sesame oil last. The dressing
+keeps a week; the slaw does not — dress 30 minutes before service at the earliest or it weeps and
+the bun goes through.
+
 ### Notes
 
 - 5 items × 1 per guest = the 5 canapés per person.
