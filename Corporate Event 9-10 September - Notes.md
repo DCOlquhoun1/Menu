@@ -242,6 +242,30 @@ coupe load rather than four. (The full batch would have made ~5.5 L, 18 g each.)
 **Order lines:** anchovies 600 g (375 g mix + 175 g aioli), aioli oil 3 L, Dijon mustard one 500 g
 jar (40 g used).
 
+### Miso aioli — for the potato hash
+
+| Ingredient | Qty |
+| --- | --- |
+| Egg yolks (pasteurised) | 6 |
+| Neutral oil (rapeseed or sunflower) | 800 ml |
+| White miso | 100 g |
+| Dijon mustard | 30 g |
+| Rice vinegar *or* lemon juice | 60 ml |
+| Garlic, finely grated | 1–2 cloves |
+| Cold water, to loosen | 50–100 ml |
+| Sesame oil (optional) | 10–15 ml |
+| Salt | only if needed — taste first |
+
+**Method.** Loosen the miso with the vinegar first; added as a paste it stays lumpy and never breaks
+down. Add yolks, dijon and garlic, then stream the oil. Water to loosen at the end. If using sesame
+oil, count it as part of the 800 ml rather than extra. Keep it a shade tighter than the anchovy aioli
+so it sits on the hash instead of running off.
+
+**Yield** ≈ 1.1 L — ~3.5 g on each of 300 hash. One batch, no scaling needed.
+
+**Order changes:** miso 1 kg → 500 g (100 g used), rice vinegar line now spans both days, Dijon jar
+covers both aiolis (70 g total).
+
 ### Notes
 
 - 5 items × 1 per guest = the 5 canapés per person.
