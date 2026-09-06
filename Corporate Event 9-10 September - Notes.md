@@ -19,9 +19,17 @@ Note-taking session. Live working document.
 
 ### Menu
 
-_(to be confirmed)_
+Canapés / small plates:
+
+1. **Bruschetta** — tomato, whipped feta & crispy basil
+2. **Pulled Pork Sliders** — with Asian slaw
+3. **Chicken Caesar Croquettes** — anchovy aioli, romaine & parmesan
+4. **Goats Cheese Bombas** — hot honey & thyme crumb
+5. **Potato Hash** — miso aioli, caviar & chives
 
 ### Notes
+
+- Menu as read out in session; 5 items.
 
 ---
 
