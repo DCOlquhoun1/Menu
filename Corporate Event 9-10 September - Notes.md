@@ -288,6 +288,21 @@ lemon here, the cider vinegar does that job.
 **Order changes:** honey 3 kg → 2 kg, lemons 80 → 30, new lines for apple cider vinegar and optional
 chipotle flakes.
 
+### Finishes at the pass
+
+**Bruschetta.** Tomatoes sliced ~4 mm on the day, laid out on paper, seasoned only as they go on —
+salted early they weep and the water goes through the crostini. Build: piped feta, one tomato slice,
+balsamic glaze, crispy basil leaf. Holds ~20 min before the base softens, so build in batches.
+
+**Caesar croquettes.** A dot of anchovy aioli on top and parmesan shaved over — ~1.5 g each, 450 g
+across 300. Shave to order; shaved early it goes waxy and clumps.
+
+**Open — romaine.** The menu reads "anchovy aioli, romaine & parmesan" but the agreed finish is aioli
+and parmesan only. Either the 15 heads come off the order or the romaine goes under the croquette as
+a shred. Decision outstanding.
+
+**Order change:** parmesan 1.6 kg → 2 kg to cover the shavings.
+
 ### Notes
 
 - 5 items × 1 per guest = the 5 canapés per person.
