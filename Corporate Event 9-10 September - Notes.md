@@ -215,17 +215,17 @@ miso aioli and the caviar going on top are salty. Suggest 225–250 g and correc
 **Order changes:** potatoes now 17 kg Agria (to yield 15 kg grated), butter 1 kg → 4 kg, cornflour
 line 3 kg → 3.75 kg; new lines for fine salt, onion powder, garlic powder and nutmeg.
 
-### Anchovy aioli
+### Anchovy aioli — quarter batch (confirmed)
 
-| Ingredient | As written | Quarter batch (1 L) |
+| Ingredient | Qty | (Full batch as first given) |
 | --- | --- | --- |
-| Large egg yolks | 30 | 8 |
-| Neutral oil | 4 L | 1 L |
-| Anchovy fillets, drained | 600–700 g | 150–175 g |
-| Garlic | 100–120 g | 25–30 g |
-| Dijon mustard | 150 g | 40 g |
-| Fresh lemon juice | 300–400 ml | 75–100 ml |
-| Cold water, to loosen | 150–300 ml | 40–75 ml |
+| Large egg yolks, pasteurised | 8 | 30 |
+| Neutral oil | 1 L | 4 L |
+| Anchovy fillets, drained | 150–175 g | 600–700 g |
+| Garlic | 25–30 g | 100–120 g |
+| Dijon mustard | 40 g | 150 g |
+| Fresh lemon juice | 75–100 ml | 300–400 ml |
+| Cold water, to loosen | 40–75 ml | 150–300 ml |
 | Black pepper / salt | to taste, salt only if needed | as left |
 
 **Method.** Blitz anchovy, garlic and dijon to a smooth paste, then the yolks. Stream the oil in
@@ -233,15 +233,14 @@ slowly — 4 L across 30 yolks is 133 ml per yolk, near the top of what they car
 room temperature and hold back 2 spare yolks in case it splits. Alternate lemon juice and cold water
 as it tightens. Pepper to taste; check salt only at the end.
 
-**Yield.** As written ≈ 5.5 L, i.e. 18 g per croquette across 300. A canapé dot is 3–5 g, so 300
-needs ~1.5 L — a quarter batch. Order lines currently carry the full recipe; batch size to be
-confirmed.
+**Yield.** ≈1.4 L — 4–5 g per croquette across 300, a canapé dot with a little in hand. One robot
+coupe load rather than four. (The full batch would have made ~5.5 L, 18 g each.)
 
 **Food safety.** Raw yolk across 300 covers — use pasteurised yolk rather than shell eggs, hold at
 3°C, discard leftovers at the end of the day.
 
-**Order changes:** anchovies 600 g → 1.1 kg (375 g mix + 600–700 g aioli), aioli oil line 5 L → 6 L,
-new Dijon mustard line.
+**Order lines:** anchovies 600 g (375 g mix + 175 g aioli), aioli oil 3 L, Dijon mustard one 500 g
+jar (40 g used).
 
 ### Notes
 
